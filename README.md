@@ -19,7 +19,7 @@ I'm always looking to learn from experts and fellow enthusiasts. If you want to 
     <td align="center">
       <h3 style="margin-top: 0;">Connect with me!</h3>
       <a href="https://www.linkedin.com/in/williamcry/">
-        <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="LinkedIn" style="margin-top: -40px; width: 40px;">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-top: -40px;">
       </a>
     </td>
   </tr>
