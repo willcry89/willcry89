@@ -8,7 +8,7 @@
 
 <div align="center" style="color:#FFF700;">
 
-Hi! I am **William Cry**, pursuing a **B.A. of Economics** at **San Diego State University**. 
+Hi! I am **William Cry**, pursuing a **B.A. in Economics** at **San Diego State University**. 
 
 I'm always looking to learn from experts and fellow enthusiasts. If you want to chat or share insights, send me an email: <a href="[https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXxwphhpGDwmKKJrXSjHwsKxkZPBjRLNKGhqrqvfNCBvLBZsfQhQhDWfzFNchkbgtBLJq](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXxwphhpGDwmKKJrXSjHwsKxkZPBjRLNKGhqrqvfNCBvLBZsfQhQhDWfzFNchkbgtBLJq)" style="color:#FFF700;">willcry89@gmail.com</a>.
 
