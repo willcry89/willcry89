@@ -3,12 +3,12 @@
 
 <p align="center">
   <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2000&pause=1000&color=BAF878&center=true&width=435&lines=Aspiring+Business%2FData+Analyst;Business+Admin.+Management+at+SDSU;Minor+in+Economics+(Quant+Analysis)" alt="Typing SVG" 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3900&pause=1000&center=true&width=435&lines=Aspiring+Data%2FBusiness+Analyst;Studying+Business+Administration;%26+Quantitative+Economics;at+San+Diego+State+University" alt="Typing SVG" /></a>
 </p>
 
 <div align="center" style="color:#FFF700;">
 
-Hi! I am Will, pursuing a **B.S. in Business Administration Management with a Minor in Economics (Quantitative Analysis)** at **San Diego State University**. 
+Hi! I am Will, pursuing a **B.S. in Business Administration Management with a Minor in Quantitative Economics** at **San Diego State University**. 
 
 I'm always looking to learn from experts and fellow enthusiasts. If you want to chat or share insights, send me an email: <a href="[https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXxwphhpGDwmKKJrXSjHwsKxkZPBjRLNKGhqrqvfNCBvLBZsfQhQhDWfzFNchkbgtBLJq](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXxwphhpGDwmKKJrXSjHwsKxkZPBjRLNKGhqrqvfNCBvLBZsfQhQhDWfzFNchkbgtBLJq)" style="color:#FFF700;">willcry89@gmail.com</a>.
 
